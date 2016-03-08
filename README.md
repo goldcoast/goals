@@ -28,7 +28,8 @@
 > 2. 开车上路
 > 3. 每天微信读书半小时
 > 4. 旅游
-> 5. * _[引入jest]_
+> 5. * _[引入jest]_ (需细分步骤)
+> 6. 学习bootstrap代码 refer [here](https://github.com/dreamhuo/bootsrap-less-source-analysis)
 
 ## 3. 需要一段时间才能完成的事情
 > 1. 一年至少两次旅游
